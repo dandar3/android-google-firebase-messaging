@@ -14,8 +14,8 @@ https://maven.google.com/com/google/firebase/firebase-messaging/15.0.0/firebase-
 
 **References:**
 - https://firebase.google.com/docs/cloud-messaging/
-- https://firebase.google.com/support/release-notes/android#sdk_version_1201_march_28_2018
-- https://developers.google.com/android/guides/releases#march_28_2018_-_version_1201
+- https://firebase.google.com/support/release-notes/android#sdk_version_1500_april_12_2018
+- https://developers.google.com/android/guides/releases#april_12_2018_-_version_1500
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
